@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Colon</string>
+    <string name="btn_label_update_location">Actualizar localización</string>
+    <string name="nav_header_title">ETB Colón</string>
+    <string name="nav_header_subtitle">jeyson.garciar@etb.com.co</string>
+    <string name="input_num_order">¿Cuál es el número de la orden?</string>
+    <string name="title_activity_template">ETB Colon template</string>
+</resources>
